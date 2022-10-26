@@ -3,3 +3,6 @@ https://images.pexels.com/photos/317372/pexels-photo-317372.jpeg?auto=compress&c
 
 to remove ciircular border:
 https://www.erase.bg/upload
+
+image resize:
+https://imageresizer.com/resize/download/6359854212cbf3902fabc58d
